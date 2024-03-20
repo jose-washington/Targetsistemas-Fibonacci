@@ -1,0 +1,14 @@
+C:\teste de programação\TesteFibonacci\bin\Debug\net8.0\TesteFibonacci.exe
+C:\teste de programação\TesteFibonacci\bin\Debug\net8.0\TesteFibonacci.deps.json
+C:\teste de programação\TesteFibonacci\bin\Debug\net8.0\TesteFibonacci.runtimeconfig.json
+C:\teste de programação\TesteFibonacci\bin\Debug\net8.0\TesteFibonacci.dll
+C:\teste de programação\TesteFibonacci\bin\Debug\net8.0\TesteFibonacci.pdb
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\TesteFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\TesteFibonacci.AssemblyInfoInputs.cache
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\TesteFibonacci.AssemblyInfo.cs
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\TesteFibonacci.csproj.CoreCompileInputs.cache
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\TesteFibonacci.dll
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\refint\TesteFibonacci.dll
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\TesteFibonacci.pdb
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\TesteFibonacci.genruntimeconfig.cache
+C:\teste de programação\TesteFibonacci\obj\Debug\net8.0\ref\TesteFibonacci.dll
